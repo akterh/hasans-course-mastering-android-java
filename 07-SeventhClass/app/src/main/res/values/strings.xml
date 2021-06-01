@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">07-SeventhClass</string>
+
+    <string name="topic_list_title">Important Android Topics</string>
+    <string name="movie_button_text">Show Movie List</string>
+    <string name="direction_name">Director: </string>
+    <string name="movie_type_title">Movie Type: </string>
+    <string name="movie_plot_title">Plot: </string>
+    <string name="movie_plot">Slow-witted Forrest Gump (Tom Hanks) has never thought of himself as disadvantaged, and thanks to his supportive mother (Sally Field), he leads anything but a restricted life. Whether dominating on the gridiron as a college football star, fighting in Vietnam or captaining a shrimp boat, Forrest inspires people with his childlike optimism. But one person Forrest cares about most may be the most difficult to save -- his childhood love, the sweet but troubled Jenny (Robin Wright).</string>
+    <string name="movie_name_title">Movie Name: </string>
+    <string name="rating_title">Rating: </string>
+
+</resources>
